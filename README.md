@@ -1,14 +1,14 @@
 # ⚡ Olá mundo, sou a Vera Lúcia! 👩‍💻
 
 > **Desenvolvedora Front-end | React | JavaScript | HTML5 | CSS3**  
-> *De painéis elétricos a linhas de código — transformando resolução de problemas em software.*
+> *De painéis elétricos a linhas de código, transformando resolução de problemas em software.*
 
 ---
 
 ## 📌 Sobre Mim
 
 * 🎓 **Formação:** Cursando *Técnico em Desenvolvimento de Sistemas* no SENAI/SC.
-* 🛠️ **Trajetória & Diferencial:** Trabalhei por anos com **manutenção elétrica, eletromecânica e automação**. Essa bagagem me ensinou a diagnosticar falhas complexas, trabalhar sob pressão e atuar com precisão milimétrica — um raciocínio analítico que hoje aplico diretamente na engenharia de software e resolução de problemas críticos.
+* 🛠️ **Trajetória & Diferencial:** Trabalhei por anos com **manutenção elétrica, eletromecânica e automação**. Essa bagagem me ensinou a diagnosticar falhas complexas, trabalhar sob pressão e atuar com precisão milimétrica um raciocínio analítico que hoje aplico diretamente na engenharia de software e resolução de problemas críticos.
 * 🎯 **Foco Atual:** Criação de aplicações Web e Front-end (React, PWAs) que resolvem problemas reais.
 
 ---
