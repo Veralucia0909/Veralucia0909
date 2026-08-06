@@ -8,8 +8,8 @@
 ## 📌 Sobre Mim
 
 * 🎓 **Formação:** Cursando *Técnico em Desenvolvimento de Sistemas* no SENAI/SC.
-* 🛠️ **Trajetória & Diferencial:** Trabalhei por anos com **manutenção elétrica, eletromecânica e automação**. Essa bagagem me ensinou a diagnosticar falhas complexas, trabalhar sob pressão e atuar com precisão milimétrica um raciocínio analítico que hoje aplico diretamente na engenharia de software e resolução de problemas críticos.
-* 🎯 **Foco Atual:** Desenvolvedora Front-end.
+* ⚡ *Trajetória:* Anos de experiência com manutenção elétrica, eletromecânica e automação, migrando agora para o desenvolvimento de sistemas.
+* 🎯 **Foco Atual:** Desenvolvedora Front-end Júnior, já desenvolvi 4 projetos práticos, incluindo um sistema em produção que atende um cliente real.
 
 ---
 
