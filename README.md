@@ -5,54 +5,37 @@
 
 ---
 
-## 📌 Sobre Mim
-
-* 🎓 **Formação:** Cursando *Técnico em Desenvolvimento de Sistemas* no SENAI/SC.
-* ⚡ **Trajetória:** Anos de experiência com manutenção elétrica, eletromecânica e automação, migrando agora para o desenvolvimento de sistemas.
-* 🎯 **Foco Atual:** Desenvolvedora Front-end Júnior, construindo aplicações web modernas, responsivas e integradas a APIs.
+## 🔗 Portfólio:
+* [Clique aqui para ver meu portfólio](https://www.linkedin.com/in/verapaulalima)
 
 ---
 
-## 🛠️ Tecnologias & Habilidades
+## 🛠️ Stack que utilizo:
 
-### **Front-end & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+### **Front-end:**
+[![React](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,reactnative)](https://skillicons.dev)
 
-### **Ferramentas de Desenvolvimento & Bibliotecas**
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### **Back-End:**
+[![Back-end](https://skillicons.dev/icons?i=nodejs,express,python)](https://skillicons.dev)
 
-### **Dados & Back-end**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### **Banco de dados:**
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase)](https://skillicons.dev)
 
-### **Versionamento, Cloud & Metodologias**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+### **Nuvem:**
+[![Cloud](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
-### **Indústria & Conhecimentos Complementares**
-![IoT](https://img.shields.io/badge/IoT-00599E?style=for-the-badge)
-![Automação](https://img.shields.io/badge/Automação-007ACC?style=for-the-badge)
-![Resolução de Problemas](https://img.shields.io/badge/Resolução_de_Problemas_Críticos-4682B4?style=for-the-badge)
+### **Ferramentas & Projeto:**
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://skillicons.dev)
+
+### **Outras tecnologias que já estudei/utilizei:**
+[![Others](https://skillicons.dev/icons?i=prisma,canva)](https://skillicons.dev)
+
+### **SO e Arquitetura:**
+[![OS & Arch](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
 ---
 
-## 📬 Vamos nos conectar?
+## 📬 Meus contatos:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limaveralucia2018@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verapaulalima)
-
----
