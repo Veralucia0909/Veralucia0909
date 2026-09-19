@@ -16,7 +16,7 @@
 [![React](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,reactnative)](https://skillicons.dev)
 
 ### **Back-End:**
-[![Back-end](https://skillicons.dev/icons?i=nodejs,express,python)](https://skillicons.dev)
+[![Back-end](https://skillicons.dev/icons?i=nodejs,express,python,prisma)](https://skillicons.dev)
 
 ### **Banco de dados:**
 [![Database](https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase)](https://skillicons.dev)
@@ -24,11 +24,11 @@
 ### **Nuvem:**
 [![Cloud](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
-### **Ferramentas & Projeto:**
+### **Ferramentas e Projeto:**
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://skillicons.dev)
 
 ### **Outras tecnologias que já estudei/utilizei:**
-[![Others](https://skillicons.dev/icons?i=prisma,canva)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=python,canva)](https://skillicons.dev)
 
 ### **SO e Arquitetura:**
 [![OS & Arch](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
