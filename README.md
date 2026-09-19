@@ -35,9 +35,14 @@
 
 ---
 
+## 📬 Meus contatos:
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limaveralucia2018@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verapaulalima)
+
 <div align="center">
 
-  <img src="LINK_DA_SUA_FOTO_AQUI" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Vera Lúcia">
+  <img src="COLE_O_LINK_DA_SUA_FOTO_AQUI" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Vera Lúcia">
 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,reactnative,nodejs,express,python,postgres,mysql,supabase,firebase,vercel,git,github,vscode,postman,figma,prisma,linux,windows&perline=8" />
@@ -84,7 +89,4 @@ Sou apaixonada por aprender continuamente, otimizar processos e criar soluções
 
 ---
 
-## 📬 Meus contatos:
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limaveralucia2018@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verapaulalima)
