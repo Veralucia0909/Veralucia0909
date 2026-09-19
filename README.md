@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Portfólio:
-* [Clique aqui para ver meu portfólio](#-https://veralucia-portfolio.vercel.app/)
+* [Clique aqui para ver meu portfólio](https://veralucia-portfolio.vercel.app/)
 
 ---
 
@@ -39,4 +39,3 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limaveralucia2018@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verapaulalima)
-
