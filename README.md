@@ -1,6 +1,6 @@
 # ⚡ Olá mundo, sou a Vera Lúcia! 👩‍💻
 
-> **Desenvolvedora Front-end | React | TypeScript | Tailwind CSS**  
+> **Desenvolvedora Front-end Júnior  |  React · JavaScript · PWA mobile-first**  
 > *De painéis elétricos a linhas de código, transformando resolução de problemas em software.*
 
 ---
