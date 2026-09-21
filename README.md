@@ -21,9 +21,9 @@
 
 ## 💻 Sobre mim
 
-Sou desenvolvedora front-end e estudante de Desenvolvimento de Sistemas no SENAI/SC. Antes do código, passei mais de 7 anos em manutenção elétrica, eletromecânica e automação industrial — diagnosticando falhas sob pressão, em equipamento que não podia parar.
+Sou desenvolvedora front-end e estudante de Desenvolvimento de Sistemas no SENAI/SC. Antes do código, passei mais de 7 anos em manutenção elétrica, eletromecânica e automação industrial diagnosticando falhas sob pressão, em equipamento que não podia parar.
 
-Levo esse mesmo raciocínio investigativo para o software: pesquiso, testo e entrego. Foi assim que identifiquei um gargalo no fluxo de documentos da imobiliária onde trabalho, propus uma solução e coloquei o **AssinaDoc** no ar — sistema que hoje é usado todos os dias por pessoas reais.
+Levo esse mesmo raciocínio investigativo para o software: pesquiso, testo e entrego. Foi assim que identifiquei um gargalo no fluxo de documentos da imobiliária onde trabalho, propus uma solução e coloquei o **AssinaDoc** no ar sistema que hoje é usado todos os dias por pessoas reais.
 
 Trabalho principalmente com **React, JavaScript (ES6+), HTML5 e CSS3**, com foco em **PWA mobile-first**: aplicações instaláveis, que funcionam offline e são pensadas para o celular antes do desktop.
 
@@ -100,7 +100,7 @@ Trabalho principalmente com **React, JavaScript (ES6+), HTML5 e CSS3**, com foco
 
 - CRUD completo para leitura e acompanhamento do consumo de 12 unidades habitacionais.
 - Emissão de fatura em PDF com demonstrativo de consumo e dashboard com total em kWh, tarifa aplicada e unidade de maior consumo.
-- App instalável na tela inicial e com funcionamento offline — pensado para quem faz a leitura em campo, onde nem sempre há sinal.
+- App instalável na tela inicial e com funcionamento offline pensado para quem faz a leitura em campo, onde nem sempre há sinal.
 
 🔗 [kitenergia.vercel.app](https://kitenergia.vercel.app/) · [código no GitHub](https://github.com/Veralucia0909/KitEnergia)
 
