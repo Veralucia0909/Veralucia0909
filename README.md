@@ -7,9 +7,6 @@
 <a href="https://veralucia-portfolio.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="./curriculo-vera-lucia.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Curr%C3%ADculo%20(PDF)-2D3748?style=for-the-badge&logo=readdotcv&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/verapaulalima" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -21,33 +18,22 @@
 
 ## 💻 Sobre mim
 
-Sou desenvolvedora front-end e estudante de Desenvolvimento de Sistemas no SENAI/SC. Antes do código, passei mais de 7 anos em manutenção elétrica, eletromecânica e automação industrial diagnosticando falhas sob pressão, em equipamento que não podia parar.
+Sou desenvolvedora front-end e estudante de Desenvolvimento de Sistemas no SENAI/SC. Antes do código, passei mais de 7 anos em manutenção elétrica, eletromecânica e automação industrial — diagnosticando falhas sob pressão, em equipamento que não podia parar.
 
-Levo esse mesmo raciocínio investigativo para o software: pesquiso, testo e entrego. Foi assim que identifiquei um gargalo no fluxo de documentos da imobiliária onde trabalho, propus uma solução e coloquei o **AssinaDoc** no ar sistema que hoje é usado todos os dias por pessoas reais.
+Levo esse mesmo raciocínio investigativo para o software: pesquiso, testo e entrego. Foi assim que identifiquei um gargalo no fluxo de documentos da imobiliária onde trabalho, propus uma solução e coloquei o **AssinaDoc** no ar — sistema que hoje é usado todos os dias por pessoas reais.
 
 Trabalho principalmente com **React, JavaScript (ES6+), HTML5 e CSS3**, com foco em **PWA mobile-first**: aplicações instaláveis, que funcionam offline e são pensadas para o celular antes do desktop.
 
+Manter um sistema no ar me ensinou que escrever o código é a parte menor. Sou eu quem recebe o relato de quem usa, reproduz o problema, encontra a causa, corrige e revalida — foi assim que achei e corrigi uma falha de segurança que deixava a senha de acesso exposta no código do site. Hoje curso o módulo de **Testes de Sistemas** (Jira, Postman e pgAdmin) e gosto cada vez mais da parte de **qualidade**: pensar no cenário de borda antes que ele vire chamado.
+
 ---
 
-## 🛠️ Stack que utilizo
+## Tecnologias
 
-**Front-end**
+<img src="https://skillicons.dev/icons?i=react,js,html,css,vite,tailwind,supabase,firebase,postgres,mysql,vercel,git,github,postman,figma,vscode,ts,nodejs,express,prisma,python&theme=light&perline=11" />
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,vite,tailwind,ts" height="42" />
-
-**Back-end**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma" height="42" />
-
-**Banco de dados**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" height="42" />
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode" height="42" />
-
-> React, JavaScript, HTML, CSS, Vite, Supabase, Firebase, Git e Vercel são o que uso no dia a dia dos meus projetos. TypeScript, Node.js, Express, Prisma e PostgreSQL estou aprofundando agora nos projetos de back-end do curso.
+> **No dia a dia:** React, JavaScript, HTML, CSS, Vite, Tailwind, Supabase, Firebase, Git, GitHub, Postman e Vercel.
+> **Aprofundando agora:** TypeScript, Node.js, Express, Prisma, PostgreSQL e Cypress.
 
 ---
 
@@ -100,7 +86,7 @@ Trabalho principalmente com **React, JavaScript (ES6+), HTML5 e CSS3**, com foco
 
 - CRUD completo para leitura e acompanhamento do consumo de 12 unidades habitacionais.
 - Emissão de fatura em PDF com demonstrativo de consumo e dashboard com total em kWh, tarifa aplicada e unidade de maior consumo.
-- App instalável na tela inicial e com funcionamento offline pensado para quem faz a leitura em campo, onde nem sempre há sinal.
+- App instalável na tela inicial e com funcionamento offline — pensado para quem faz a leitura em campo, onde nem sempre há sinal.
 
 🔗 [kitenergia.vercel.app](https://kitenergia.vercel.app/) · [código no GitHub](https://github.com/Veralucia0909/KitEnergia)
 
@@ -139,9 +125,10 @@ Trabalho principalmente com **React, JavaScript (ES6+), HTML5 e CSS3**, com foco
 Estou aberta a oportunidades como **Desenvolvedora Front-end Júnior**, em Florianópolis ou remoto.
 
 - 🌐 **Portfólio:** [veralucia-portfolio.vercel.app](https://veralucia-portfolio.vercel.app)
-- 📄 **Currículo em PDF:** [baixar aqui](./curriculo-vera-lucia.pdf)
 - 💼 **LinkedIn:** [linkedin.com/in/verapaulalima](https://www.linkedin.com/in/verapaulalima)
 - ✉️ **E-mail:** [limaveralucia2018@gmail.com](mailto:limaveralucia2018@gmail.com)
+
+*Currículo em PDF sob solicitação — me mande um e-mail ou uma mensagem no LinkedIn.*
 
 <div align="center">
 
