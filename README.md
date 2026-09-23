@@ -18,13 +18,13 @@
 
 ## 💻 Sobre mim
 
-Sou desenvolvedora front-end e estudante de Desenvolvimento de Sistemas no SENAI/SC. Antes do código, passei mais de 7 anos em manutenção elétrica, eletromecânica e automação industrial — diagnosticando falhas sob pressão, em equipamento que não podia parar.
+Sou desenvolvedora front-end e estudante de Desenvolvimento de Sistemas no SENAI/SC. Antes do código, passei mais de 7 anos em manutenção elétrica, eletromecânica e automação industrial diagnosticando falhas sob pressão, em equipamento que não podia parar.
 
-Levo esse mesmo raciocínio investigativo para o software: pesquiso, testo e entrego. Foi assim que identifiquei um gargalo no fluxo de documentos da imobiliária onde trabalho, propus uma solução e coloquei o **AssinaDoc** no ar — sistema que hoje é usado todos os dias por pessoas reais.
+Levo esse mesmo raciocínio investigativo para o software: pesquiso, testo e entrego. Foi assim que identifiquei um gargalo no fluxo de documentos da imobiliária onde trabalho, propus uma solução e coloquei o **AssinaDoc** no ar sistema que hoje é usado todos os dias por pessoas reais.
 
 Trabalho principalmente com **React, JavaScript (ES6+), HTML5 e CSS3**, com foco em **PWA mobile-first**: aplicações instaláveis, que funcionam offline e são pensadas para o celular antes do desktop.
 
-Manter um sistema no ar me ensinou que escrever o código é a parte menor. Sou eu quem recebe o relato de quem usa, reproduz o problema, encontra a causa, corrige e revalida — foi assim que achei e corrigi uma falha de segurança que deixava a senha de acesso exposta no código do site. Hoje curso o módulo de **Testes de Sistemas** (Jira, Postman e pgAdmin) e gosto cada vez mais da parte de **qualidade**: pensar no cenário de borda antes que ele vire chamado.
+Manter um sistema no ar me ensinou que escrever o código é a parte menor. Sou eu quem recebe o relato de quem usa, reproduz o problema, encontra a causa, corrige e revalida foi assim que achei e corrigi uma falha de segurança que deixava a senha de acesso exposta no código do site. Hoje curso o módulo de **Testes de Sistemas** (Jira, Postman e pgAdmin) e gosto cada vez mais da parte de **qualidade**: pensar no cenário de borda antes que ele vire chamado.
 
 ---
 
@@ -44,7 +44,7 @@ Manter um sistema no ar me ensinou que escrever o código é a parte menor. Sou 
 
 **Stack:** JavaScript (ES6+) · HTML5 · CSS3 · Supabase (Postgres + Edge Functions) · APIs REST/JSON · Vercel
 
-- Identifiquei o gargalo no fluxo de documentos da imobiliária onde trabalho e propus, desenvolvi e coloquei no ar a solução — do levantamento do problema ao deploy.
+- Identifiquei o gargalo no fluxo de documentos da imobiliária onde trabalho e propus, desenvolvi e coloquei no ar a solução do levantamento do problema ao deploy.
 - Envio do documento pelo WhatsApp, assinatura no celular com o dedo e devolução do PDF assinado, eliminando deslocamentos de inquilinos e proprietários.
 - Modelagem das tabelas, autenticação e regras de acesso no Supabase, com controle de status de cada documento.
 - Segurança tratada no servidor: senhas em Edge Functions (nenhum segredo no código do site), PDFs em bucket privado com link temporário de 15 minutos, sessão com validade e bloqueio contra tentativa automática de senha.
@@ -56,7 +56,7 @@ Manter um sistema no ar me ensinou que escrever o código é a parte menor. Sou 
 <!-- ▼ VÍDEO: arraste o arquivo assinadoc-demo.mp4 aqui na caixa de edição do README no GitHub.
      O GitHub sobe o arquivo e troca esta linha pelo link sozinho. Depois apague este comentário. ▼ -->
 
-> **Demonstração (52s):** fluxo completo em modo demonstração — login, preenchimento, geração do link, assinatura, PDF assinado e painel de acompanhamento. Todos os dados do vídeo são fictícios.
+> **Demonstração (52s):** fluxo completo em modo demonstração login, preenchimento, geração do link, assinatura, PDF assinado e painel de acompanhamento. Todos os dados do vídeo são fictícios.
 
 ---
 
